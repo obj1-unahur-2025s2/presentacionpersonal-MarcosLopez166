@@ -11,3 +11,4 @@
 ### Otra Información
 - Este es mi casi primer contacto con github
 - Tengo un perro que se llama Lulu
+![foto Lulu](./Lulu.jpg)
