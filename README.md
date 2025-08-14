@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
+- Mi nombre es: Marcos Lopez
 - Vivo en
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este es mi casi primer contacto con github
+- Tengo un perro que se llama Lulu
